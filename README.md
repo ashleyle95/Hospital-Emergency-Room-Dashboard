@@ -136,10 +136,7 @@ Explore why Native American/Alaska Native patients experience the highest waitin
 
 ## 5. Limitations
 
-The dashboard does not provide reasons for patient wait times (e.g., staff shortages, high-acuity cases).
-No real-time patient feedback is included in satisfaction scores.
-More than 70 % of all patients having no satisfaction score that can make the analysis not comprehensive.
-For further analysis, we can integrate real-time patient tracking to predict wait times dynamically and try to use friendly-user interface to promote patients to leave comments and score
+The current dashboard does not capture the underlying reasons for patient wait times, such as staff shortages or high-acuity cases. Additionally, real-time patient feedback is not included in the satisfaction scores, limiting the depth of analysis. More than 70% of patients do not provide a satisfaction score, which makes the analysis less comprehensive. For more accurate insights, we recommend integrating real-time patient tracking to dynamically predict wait times. Additionally, implementing a user-friendly interface to encourage patients to leave comments and ratings can provide more valuable feedback for further analysis and service improvement.
 
 | [Table of Contents](#table-of-contents) | [Project Links](#project-links) |
 

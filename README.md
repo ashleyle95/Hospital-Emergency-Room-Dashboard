@@ -44,7 +44,7 @@ During the data profiling process in Power BI, we identified that the `patient_s
 After careful consideration, we have decided to retain these null values rather than imputing or removing them. The primary reason for this decision is that patient satisfaction ratings are often voluntary, and missing values do not necessarily indicate an error but rather a lack of response. Excluding these records could introduce bias into the analysis by disproportionately focusing on patients who chose to leave a rating.
 
 ## 3. Reporting dashboard 
-[Embedded Demo in Power BI service](https://github.com/user-attachments/assets/51aa4938-4f7a-4e90-9109-98afe00abc67)
+[Embedded Demo in Power BI service](https://app.fabric.microsoft.com/view?r=eyJrIjoiNGQ2ZjFhOWQtOWE0My00MzQ3LWIwMGUtYzg4MmI3MzI0YTA1IiwidCI6IjA2N2UxZTE5LWExMWEtNDhlNS04Yjc5LTBiOWVlNzQ1YTdhMiJ9)
 
 **1. Page 1: `Visit Overew`**: Provides an overview of the hospital's emergency room visits
 ![image](https://github.com/user-attachments/assets/7d62a267-7f53-40b6-997a-9c27a8e71409)

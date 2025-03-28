@@ -60,7 +60,7 @@ Another key performance indicator (KPI) is the average satisfaction score, which
 + The demographic of patients visiting the ER during this period shows that 51% of the patients are male, while 48.69% are female. Monday and Saturday is the busiest day in the week. The period of collected data is from 01 April 2019 to October 30, 2020 so during that period, the patient visits in 2020 is higher compared to previous year
 ![image](https://github.com/user-attachments/assets/7ce3de18-ca23-45f5-8554-1c6536034272)
 
-By drilling down into the graph, the trend by quarter can be revealed. Patient visits remained consistent throughout the quarters of 2020, except for the last quarter (Q4), which experienced a sharp decline with only 471 visits. The graph allows for easy drilling down to uncover trends over time by date, month, quarter, or year for further analysis if needed.
+By drilling down into the graph, the trend by quarter can be revealed. Patient visits remained consistent throughout the quarters of 2020, except for the last quarter (Q4), which experienced a sharp decline with only 471 visits due to data being collected only until October 2020. The graph allows for easy drilling down to uncover trends over time by date, month, quarter, or year for further analysis if needed.
 
 ![image](https://github.com/user-attachments/assets/88678f1e-736c-4618-a616-7ca97d9473e5)
 

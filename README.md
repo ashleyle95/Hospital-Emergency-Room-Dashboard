@@ -47,7 +47,7 @@ After careful consideration, we have decided to retain these null values rather 
 [Embedded Demo in Power BI service](https://app.fabric.microsoft.com/view?r=eyJrIjoiNGQ2ZjFhOWQtOWE0My00MzQ3LWIwMGUtYzg4MmI3MzI0YTA1IiwidCI6IjA2N2UxZTE5LWExMWEtNDhlNS04Yjc5LTBiOWVlNzQ1YTdhMiJ9)
 
 **1. Page 1: `Visit Overew`**: Provides an overview of the hospital's emergency room visits
-![image](https://github.com/user-attachments/assets/4727b087-32bd-4265-9377-54b9210737f0)
+![image](https://github.com/user-attachments/assets/90b95930-9348-4188-8323-bca3fb5f51f2)
 
 + 9,216 patients visited the ER during the reported period, reflecting a 44.1% increase in total patient visits compared to the same period last year. This indicates a positive trend in patient visits.
 
@@ -57,13 +57,13 @@ Another key performance indicator (KPI) is the average satisfaction score, which
 ![image](https://github.com/user-attachments/assets/b81f25f0-ba76-4a03-a292-0b31349e26c0)
 
 
-+ The demographic of patients visiting the ER during this period shows that 51% of the patients are male, while 48.69% are female. Monday and Saturday is the busiest day in the week.
-![image](https://github.com/user-attachments/assets/2bb4a804-ddde-43da-92d4-db4d0aa0eda6)
++ The demographic of patients visiting the ER during this period shows that 51% of the patients are male, while 48.69% are female. Monday and Saturday is the busiest day in the week. The period of collected data is from 01 April 2019 to October 30, 2020 so during that period, the patient visits in 2020 is higher compared to previous year
+![image](https://github.com/user-attachments/assets/7ce3de18-ca23-45f5-8554-1c6536034272)
 
+By drilling down into the graph, the trend by quarter can be revealed. Patient visits remained consistent throughout the quarters of 2020, except for the last quarter (Q4), which experienced a sharp decline with only 471 visits. The graph allows for easy drilling down to uncover trends over time by date, month, quarter, or year for further analysis if needed.
 
-+ By drilling down into the graph, the trend analysis of patient visits over the latest year reveals that the least busy period occurs during quarters 2 and 3, with patient visits showing that the percentage of men and women is approximately the same. We can easily drill down or down to uncover the trend over time: date, month, quarter or year for further analysis if needed. 
+![image](https://github.com/user-attachments/assets/88678f1e-736c-4618-a616-7ca97d9473e5)
 
-![image](https://github.com/user-attachments/assets/cb11f622-69e7-4d03-bbf7-c55c683a09c7)
 
 + Department Referral:
 41.4% of all patients are referred from other departments, with General Practice having the highest referral rate. It also has the second-lowest average waiting time.

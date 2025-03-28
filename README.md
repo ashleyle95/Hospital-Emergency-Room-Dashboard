@@ -39,9 +39,9 @@ This dashboard can uncover the trend of ER performance to improve efficiency, re
 
 ## 2. Data Process:
 
-During the data profiling process in Power BI, we identified that the `patient_sat_score` column contains a significant number of null values. This column represents patient satisfaction scores, which are optional ratings provided by patients regarding their experience with the hospital's emergency services.
+During the data profiling process in Power BI, I identified that the `patient_sat_score` column contains a significant number of null values. This column represents patient satisfaction scores, which are optional ratings provided by patients regarding their experience with the hospital's emergency services.
 
-After careful consideration, we have decided to retain these null values rather than imputing or removing them. The primary reason for this decision is that patient satisfaction ratings are often voluntary, and missing values do not necessarily indicate an error but rather a lack of response. Excluding these records could introduce bias into the analysis by disproportionately focusing on patients who chose to leave a rating.
+After careful consideration, I have decided to retain these null values rather than imputing or removing them. The primary reason for this decision is that patient satisfaction ratings are often voluntary, and missing values do not necessarily indicate an error but rather a lack of response. Excluding these records could introduce bias into the analysis by disproportionately focusing on patients who chose to leave a rating.
 
 ## 3. Reporting dashboard 
 [Embedded Demo in Power BI service](https://app.fabric.microsoft.com/view?r=eyJrIjoiNGQ2ZjFhOWQtOWE0My00MzQ3LWIwMGUtYzg4MmI3MzI0YTA1IiwidCI6IjA2N2UxZTE5LWExMWEtNDhlNS04Yjc5LTBiOWVlNzQ1YTdhMiJ9)
@@ -144,7 +144,7 @@ Explore why Native American/Alaska Native patients experience the highest waitin
 ## 5. Limitations
 + The data collection period spans from April 1, 2019, to October 30, 2020, which may limit my ability to uncover trends. For more comprehensive analysis, collecting data for over two years could provide deeper and more insightful findings.
 
-+ The current dashboard does not capture the underlying reasons for patient wait times, such as staff shortages or high-acuity cases. Additionally, real-time patient feedback is not included in the satisfaction scores, limiting the depth of analysis. More than 70% of patients do not provide a satisfaction score, which makes the analysis less comprehensive. For more accurate insights, we recommend integrating real-time patient tracking to dynamically predict wait times. Additionally, implementing a user-friendly interface to encourage patients to leave comments and ratings can provide more valuable feedback for further analysis and service improvement.
++ The current dashboard does not capture the underlying reasons for patient wait times, such as staff shortages or high-acuity cases. Additionally, real-time patient feedback is not included in the satisfaction scores, limiting the depth of analysis. More than 70% of patients do not provide a satisfaction score, which makes the analysis less comprehensive. For more accurate insights, it is recommended to integrating real-time patient tracking to dynamically predict wait times. Additionally, implementing a user-friendly interface to encourage patients to leave comments and ratings can provide more valuable feedback for further analysis and service improvement.
 
 | [Table of Contents](#table-of-contents) | [Project Links](#project-links) |
 

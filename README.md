@@ -142,8 +142,9 @@ Since Pacific Islanders report the highest satisfaction despite low patient volu
 Explore why Native American/Alaska Native patients experience the highest waiting times and lowest satisfaction scores, and focus on strategies to reduce waiting time and improve their overall experience.
 
 ## 5. Limitations
-The data collection period spans from April 1, 2019, to October 30, 2020, which may limit my ability to uncover trends. For more comprehensive analysis, collecting data for over two years could provide deeper and more insightful findings.
-The current dashboard does not capture the underlying reasons for patient wait times, such as staff shortages or high-acuity cases. Additionally, real-time patient feedback is not included in the satisfaction scores, limiting the depth of analysis. More than 70% of patients do not provide a satisfaction score, which makes the analysis less comprehensive. For more accurate insights, we recommend integrating real-time patient tracking to dynamically predict wait times. Additionally, implementing a user-friendly interface to encourage patients to leave comments and ratings can provide more valuable feedback for further analysis and service improvement.
++ The data collection period spans from April 1, 2019, to October 30, 2020, which may limit my ability to uncover trends. For more comprehensive analysis, collecting data for over two years could provide deeper and more insightful findings.
+
++ The current dashboard does not capture the underlying reasons for patient wait times, such as staff shortages or high-acuity cases. Additionally, real-time patient feedback is not included in the satisfaction scores, limiting the depth of analysis. More than 70% of patients do not provide a satisfaction score, which makes the analysis less comprehensive. For more accurate insights, we recommend integrating real-time patient tracking to dynamically predict wait times. Additionally, implementing a user-friendly interface to encourage patients to leave comments and ratings can provide more valuable feedback for further analysis and service improvement.
 
 | [Table of Contents](#table-of-contents) | [Project Links](#project-links) |
 

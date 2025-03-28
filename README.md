@@ -18,24 +18,24 @@ A hospital, A, is collecting data for enhanced patient care and operational effi
 ### Objective
 This dashboard can uncover the trend of ER performance to improve efficiency, reduce wait times, and enhance patient care.
 
-Key questions:
+**Key questions:**
 
-How many patients visited the ER during a specific period? What are the demographics of ER patients (age, gender, race)?
++ How many patients visited the ER during a specific period? What are the demographics of ER patients (age, gender, race)?
 
-What is the average wait time for ER patients? Does waiting time affect the satisfaction score of patients?
++ What is the average wait time for ER patients? Does waiting time affect the satisfaction score of patients?
 
-What is the patient satisfaction score? How is the satisfaction score in term of race, referral department and age group?
++ What is the patient satisfaction score? How is the satisfaction score in term of race, referral department and age group?
 
-What are the busiest days and hours for ER visits? Which departments refer the most patients to the ER?
++ What are the busiest days and hours for ER visits? Which departments refer the most patients to the ER?
 
 ### Stakeholders:
-Hospital Administrators & Management: monitor the efficiency of ER and staffing
++ Hospital Administrators & Management: monitor the efficiency of ER and staffing
 
-Doctors & Nurses: to reduce waiting time and enhance patient care by satisfaction score
++ Doctors & Nurses: to reduce waiting time and enhance patient care by satisfaction score
 
-Emergency Room Coordinators: to manage patient flow to collaborate with other departments
++ Emergency Room Coordinators: to manage patient flow to collaborate with other departments
 
-Healthcare Policy Makers: improve the regulations to review the process by KPI and analyze the trend 
++ Healthcare Policy Makers: improve the regulations to review the process by KPI and analyze the trend 
 
 ## 2. Data Process:
 
